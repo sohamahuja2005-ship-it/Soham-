@@ -120,8 +120,7 @@ export function HeroSection() {
               </div>
 
               {/* Editorial Caption Tag */}
-              <div className="mt-4 flex items-center justify-between text-xs text-neutral-500 font-mono px-2">
-                <span>PORTRAIT // 2026 EDITION</span>
+              <div className="mt-4 flex items-center justify-end text-xs text-neutral-500 font-mono px-2">
                 <span>AHMEDABAD, GUJARAT · REMOTE</span>
               </div>
             </div>
